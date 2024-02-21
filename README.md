@@ -1,8 +1,7 @@
 <h1 align="center">João Pedro Grahl Trein</h1>
 
-- Estudante no 3º Ano do Ensino médio (SenacRS)
-- Cursando desenvolvimento Web e Mobile
-- Estagiário em V4 Company
+- Técnico em desenvolvimento web e mobile (SenacRS)
+- Analista de SEO | V4 Company
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaotrein&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaotrein&layout=compact&theme=merko)](https://github.com/Joaotrein/github-readme-stats)
