@@ -23,4 +23,3 @@
   
 ## 
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Joaotrein&bg_color=0a0f0b&color=abd200&line=dc1919&point=CE7E00&area=true&hide_border=true&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
