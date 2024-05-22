@@ -1,7 +1,7 @@
 <h1 align="center">João Pedro Grahl Trein</h1>
-
-- Técnico em desenvolvimento web e mobile (SenacRS)
-- Analista de SEO | V4 Company
+<h2>bachelor degree in Software Engineering - FIAP</h2>
+<h2>SEO Analyst</h2>
+<h2>Data Scientist</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaotrein&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaotrein&layout=compact&theme=merko)](https://github.com/Joaotrein/github-readme-stats)
