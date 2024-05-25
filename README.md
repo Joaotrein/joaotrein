@@ -3,14 +3,7 @@
 <h2>SEO Analyst</h2>
 <h2>Data Scientist</h2>
 
-<h1 align="center">Welcome! My Name is João Pedro Trein</h1>
-<h3 align="center">A passionate Data Science from Brazil!</h3>
-
-- 🌱 I’m currently learning **Machine Learning, SKlearn, Pandas and others deep learning/python libs**
-
 - 👨‍💻 All of my projects are available at [https://react-portifolio-a3oe.onrender.com](https://react-portifolio-a3oe.onrender.com)
-
-- 📫 How to reach me **jpgtrein@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
