@@ -1,7 +1,7 @@
 <h1 align="center">João Pedro Grahl Trein</h1>
-<h2>bachelor degree in Software Engineering - FIAP</h2>
+<h2>Bachelor degree in Software Engineering - FIAP</h2>
 <h2>SEO Analyst</h2>
-<h2>Data Scientist</h2>
+<h2>Passionate about data science</h2>
 
 - 👨‍💻 All of my projects are available at [https://react-portifolio-a3oe.onrender.com](https://react-portifolio-a3oe.onrender.com)
 
@@ -16,7 +16,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git,r,django, " />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,mysql" /><br>
 </div>
 
 <hr>
