@@ -15,17 +15,23 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-dark.svg" width="50"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy-dark.svg" width="50"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-dark.svg" width="50"></a><br>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50"></a>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="50"></a>
-	 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
-	 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a>
-	 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/expressjs-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="50"></a><br>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/expressjs-dark.svg" width="50"></a><br>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-dark.svg" width="50"></a>
+ 	
+ 	
+ 
  
 </div>
 
