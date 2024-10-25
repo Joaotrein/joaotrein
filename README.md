@@ -26,7 +26,7 @@
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/expressjs-dark.svg" width="50"></a><br>
-	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons#2/cpp-dark.svg" width="50"></a>
+	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons%232/cpp-dark.svg" width="50"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/unrealengine.svg" width="50"></a><br>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-dark.svg" width="50"></a>
 	<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50"></a>
